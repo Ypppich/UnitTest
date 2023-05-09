@@ -42,7 +42,6 @@ bin/
 .DS_Store
 .idea/gradle.xml
 *.xml
-build.gradle
 *.jar
 gradle/wrapper/gradle-wrapper.properties
 gradlew
